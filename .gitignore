@@ -1,0 +1,6 @@
+*.DBF
+*.csv
+*.s
+.ipynb_checkpoints/
+*.py
+.DS_Store
